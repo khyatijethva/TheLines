@@ -1,0 +1,295 @@
+@media screen and (min-width: 1350px) {
+    .container {
+        max-width: 1270px;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    .container {
+        max-width: 95%;
+    }
+    body{
+        font-size: 13px;
+    }
+    h1, .h1 {
+        font-size: 36px;
+    }
+    h2 {
+        font-size: 26px;
+    }
+    h3 {
+        font-size: 22px;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    h5 {
+        font-size: 18px;
+    }  
+    h6 {
+        font-size: 14px;
+    }
+    .bet-box .betbtn {
+        padding: 12px 5px;
+    }
+    .ads-column {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 991px){
+    .ads-column {
+        width: 100%;
+    }
+    .guide-section{
+        margin-bottom: 60px;
+    }
+    .news-section{
+        margin-bottom: 60px;
+    }
+    .review-bx-detail{
+        flex-wrap: wrap;
+    }
+    .review-bx-detail .sportbook-data {
+        width: 100%;
+        border-right: 0;
+        border-bottom: 1px solid #E6E6E6;
+    }
+    .review-bx-btn{
+        width: 100%;
+        padding: 0 15px;
+    }
+    .review-bx-btn .review-btns{
+        max-width: 250px;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .container {
+        max-width: 100%;
+    }
+    body{
+        font-size: 12px;
+    }
+    h1, .h1 {
+        font-size: 22px;
+        letter-spacing: 0.5px;
+    }
+
+    .banner-form form {
+        flex-wrap: wrap;
+        border: 0;
+    }
+    .banner-form .form-submit input[type="submit"]{
+        width: 100%;
+        padding: 13px 35px 11px;
+        font-size: 13px;
+    }
+    .banner-form form .form-submit {
+        width: 100%;
+        margin-top: 12px;
+    }
+    .banner-form form .form_group input {
+        border: 1px solid #979797;
+        font-size: 12px;
+        padding: 13px 15px;
+    }
+    .heading {
+        display: block;
+    }
+    .filters span {
+        display: block;
+    }
+    .review-box, .news-filter, .view-all a.btn {
+        margin-bottom: 15px;
+    }
+    .white-box, .yellow-box {
+        padding: 15px 10px;
+        margin-bottom: 20px;
+    }
+    .radio-check {
+        flex-wrap: wrap;
+    }
+    .sidebarbox ul li {
+        font-size: 14px;
+    }
+    section.faq-section {
+        padding-bottom: 30px;
+    }
+    .sidebarbox {
+        margin-bottom: 15px;
+    }
+    .sidebar {
+        padding-bottom: 15px;
+    }
+    .faq-slider .owl-nav{
+        display: none;
+    }
+
+    /* header css */
+    .nav-menu.desktop-menu{
+        display: none;
+    }
+    .mobile-menu {
+        display: block;
+    }
+    .top-left, .top-right ul .flag {
+        display: none;
+    }
+    .topbar {
+        justify-content: flex-end;
+    }
+    .nav-logo {
+        padding: 12px 0;
+    }
+    .header-slider .owl-nav button {
+        width: 26px;
+        font-size: 20px !important;
+    }
+    .header-slider {
+        padding: 0 28px;
+    }
+    .header-slider .bets-list {
+        padding: 5px 10px 10px;
+    }
+    .home-banner img {
+        min-height: 275px;
+        object-position: 75%;
+    }
+
+    .article-data {
+        padding: 0;
+    }
+    .article-box {
+        padding: 10px;
+    }
+    .article-banner {
+        margin-bottom: 0;
+    }
+    .accordian .card-header button.btn {
+        font-size: 13px;
+    }
+    .accordian .card .card-body {
+        font-size: 11px;
+    }
+    .what-see {
+        padding: 30px 15px;
+    }
+    .article-right {
+        display: none;
+    }
+    section.article-section {
+        padding-bottom: 36px;
+    }
+
+    .sports-books {
+        flex-wrap: wrap;
+        border: 0;
+        padding: 5px 0;
+    }
+    .sportbook-data {
+        background: #E6E6E6;
+        padding: 10px;
+    }
+    .sports-books > img {
+        width: 100%;
+    }
+    .hightlight ul li::before {
+        padding: 3px;
+        font-size: 10px;
+    }
+    .hightlight ul li {
+        padding: 5px 0;
+    }
+    .payment-methods ul li {
+        background: #fff;
+        margin-right: 5px;
+        margin-bottom: 8px;
+    }
+    .author-state {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .author-state img {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .guide-bx {
+        margin-bottom: 10px;
+    }
+    .review-section {
+        padding-bottom: 40px;
+    }
+    .review-bx{
+        flex-wrap: wrap;
+    }
+    .review-bx .review-head{
+        width: 100%;
+    }
+    .review-bx-detail{
+        width: 100%;
+    }
+    .review-bx-detail{
+        background: #E6E6E6;
+        padding: 0;
+    }
+    .bookmark-review {
+        background: #fff;
+        padding: 10px;
+    }
+    .review-bx {
+        box-shadow: none;
+        margin-bottom: 10px;
+    }
+    .review-bx-btn .review-btns {
+        max-width: 100%;
+    }
+    .payment-methods.review-pay ul li {
+        background: #E6E6E6;
+    }
+    .logo-bet:after {
+        border-top: 20px solid #103055;
+        border-right: 20px solid transparent;
+        border-left: 20px solid transparent;
+        bottom: -20px;
+    }
+    .stars, .review-desc .flex {
+        flex-direction: column;
+        text-align: left;
+        justify-content: flex-start !important;
+        width: 100%;
+        align-items: flex-start !important;
+        margin-bottom: 8px;
+    }
+    .stars {
+        margin-bottom: 6px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .header-slider .owl-stage {
+        left: -15px;
+    }
+    .faq-slider .owl-stage {
+        left: -20px;
+    }
+    .header-slider:after {
+        width: 12%;
+    }
+    .what-yousee a.btn {
+        min-width: 95%;
+    }
+    .welcome-btns .btn {
+        margin-right: 0;
+        width: 100%;
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .mobile-menu .navbar-collapse ul.nav.navbar-nav > li ul.dropdown-menu {
+        left: 100%;
+        transform: translateX(-50%);
+    }
+}

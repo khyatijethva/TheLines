@@ -1,0 +1,8 @@
+<svg id="book" xmlns="http://www.w3.org/2000/svg" width="24.493" height="30" viewBox="0 0 24.493 30">
+  <path id="Path" d="M.586,3.5a.586.586,0,0,0,.586-.586V.586A.586.586,0,0,0,0,.586V2.913A.586.586,0,0,0,.586,3.5Z" transform="translate(13.062 8.303)"/>
+  <path id="Path-2" data-name="Path" d="M.586,1.174A.586.586,0,0,0,1.172.588v0a.586.586,0,1,0-.586.589Z" transform="translate(13.062 5.949)"/>
+  <path id="Shape" d="M2.794,30A2.8,2.8,0,0,1,0,27.207V1.31A1.312,1.312,0,0,1,1.31,0h22.6a.586.586,0,0,1,.587.586V29.414a.586.586,0,0,1-.587.586Z" transform="translate(0)"/>
+  <path id="Shape-2" data-name="Shape" d="M0,5.577a5.577,5.577,0,1,1,5.577,5.578A5.584,5.584,0,0,1,0,5.577Z" transform="translate(8.071 3.297)"/>
+  <path id="Shape-3" data-name="Shape" d="M.977,4.431A.979.979,0,0,1,0,3.452V.977A.978.978,0,0,1,.977,0h9.076a.978.978,0,0,1,.977.977V3.452a.979.979,0,0,1-.977.978Z" transform="translate(7.868 17.36)"/>
+  <path id="Path-3" data-name="Path" d="M.586,0a.586.586,0,0,0,0,1.172h0A.586.586,0,1,0,.586,0Z" transform="translate(11.13 24.412)"/>
+</svg>
